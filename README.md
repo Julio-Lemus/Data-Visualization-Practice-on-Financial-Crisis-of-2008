@@ -1,2 +1,5 @@
 # Data-Visualization-Practice-on-Financial-Crisis-of-2008
-Uses exploratory data analysis, Seaborn, and Cufflinks for detailed data visualization.
+Summary: Uses exploratory data analysis, Seaborn, and Cufflinks for detailed data visualization.
+
+Libaries used: Pandas, NumPy, Seaborn, Matplotlib, Cufflinks
+
